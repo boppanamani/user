@@ -1,0 +1,1546 @@
+ {
+    "tle_add_new_address": "కొత్త చిరునామాను ఆడ్ చెయ్యండి",
+    "@tle_add_new_address": {
+        "description": "కొత్త చిరునామాను ఆడ్ చెయ్యండి"
+    },
+    "txt_select_phonenumber": "ఫోన్ నంబర్‌ని ఎంచుకోండి",
+    "@txt_select_phonenumber": {
+        "description": "ఫోన్ నంబర్‌ని ఎంచుకోండి"
+    },
+    "hnt_address": "చిరునామా (ఇల్లు, భవనం, ప్రాంతం మొదలైనవి)",
+    "@hnt_address": {
+        "description": "చిరునామా (ఇల్లు, భవనం, ప్రాంతం మొదలైనవి)"
+    },
+    "hnt_near_landmark": "సమీప ల్యాండ్ మార్క్",
+    "@hnt_near_landmark": {
+        "description": "సమీప ల్యాండ్ మార్క్"
+    },
+    "txt_please_try_again_after_sometime": "దయచేసి కొంత సమయం తర్వాత మళ్లీ ప్రయత్నించండి.",
+    "@txt_please_try_again_after_sometime": {
+        "description": "దయచేసి కొంత సమయం తర్వాత మళ్లీ ప్రయత్నించండి."
+    },
+    "hnt_pincode": "పిన్ కోడ్",
+    "@hnt_pincode": {
+        "description": "పిన్ కోడ్"
+    },
+    "hnt_state": "రాష్ట్రం",
+    "@hnt_state": {
+        "description": "రాష్ట్రం"
+    },
+       "lbl_save_address": "చిరునామాను ఇలా సేవ్ చేయండి",
+    "@lbl_save_address": {
+        "description": "చిరునామాను ఇలా సేవ్ చేయండి"
+    },
+    "txt_home": "హోమ్",
+    "@txt_home": {
+        "description": "హోమ్"
+    },
+    "txt_office": "కార్యాలయం",
+    "@txt_office": {
+        "description": "కార్యాలయం"
+    },
+    "txt_others": "ఇతరులు",
+    "@txt_others": {
+        "description": "ఇతరులు"
+    },
+    "btn_save_address": "చిరునామాను సేవ్ చేయండి",
+    "@btn_save_address": {
+        "description": "చిరునామాను సేవ్ చేయండి"
+    },
+    "lbl_payment_method": "చెల్లింపు విధానము",
+    "@lbl_payment_method": {
+        "description": "చెల్లింపు విధానము"
+    },
+    "lbl_transaction_successful": "లావాదేవీ విజయవంతమైంది",
+    "@lbl_transaction_successful": {
+        "description": "లావాదేవీ విజయవంతమైంది"
+    },
+    "txt_enter_your_card_number": "మీ కార్డ్ నంబర్‌ను ఎంటర్ చేయండి",
+    "@txt_enter_your_card_number": {
+        "description": "మీ కార్డ్ నంబర్‌ను ఎంటర్ చేయండి"
+    },
+    "lbl_card_Details": "కార్డ్ వివరాలు",
+    "@lbl_card_Details": {
+        "description": "కార్డ్ వివరాలు"
+    },
+    "lbl_card_type": "కార్డు రకము",
+    "@lbl_card_type": {
+        "description": "కార్డు రకము"
+    },
+    "txt_card_has_expired": "కార్డ్ గడువు ముగిసింది",
+    "@txt_card_has_expired": {
+        "description": "కార్డ్ గడువు ముగిసింది"
+    },
+    "lbl_card_number": "కార్డ్ నంబర్",
+    "@lbl_card_number": {
+        "description": "కార్డ్ నంబర్"
+    },
+    "txt_enter_expiry_date": "గడువు తేదీని ఎంటర్ చేయండి",
+    "@txt_enter_expiry_date": {
+        "description": "గడువు తేదీని ఎంటర్ చేయండి"
+    },
+    "lbl_pay": "చెల్లించండి",
+    "@lbl_pay": {
+        "description": "చెల్లించండి"
+    },
+    "txt_card_holder_name": "గుర్తింపు కార్డు కలిగిన వారి పేరు",
+    "@txt_card_holder_name": {
+        "description": "గుర్తింపు కార్డు కలిగిన వారి పేరు"
+    },
+    "txt_please_try_again": "దయచేసి మళ్లీ ప్రయత్నించండి",
+    "@txt_please_try_again": {
+        "description": "దయచేసి మళ్లీ ప్రయత్నించండి"
+    },
+    "txt_cvv_is_invalid": "cvv చెల్లదు",
+    "@txt_cvv_is_invalid": {
+        "description": "cvv చెల్లదు"
+    },
+    "txt_enter_valid_card_number": "చెల్లుబాటు అయ్యే కార్డ్ నంబర్‌ను ఎంటర్ చేయండి",
+    "@txt_enter_valid_card_number": {
+        "description": "చెల్లుబాటు అయ్యే కార్డ్ నంబర్‌ను ఎంటర్ చేయండి"
+    },
+    "lbl_transaction_failed": "లావాదేవీ విఫలమైంది.",
+    "@lbl_transaction_failed": {
+        "description": "లావాదేవీ విఫలమైంది."
+    },
+    "lbl_try_again": "మళ్లీ ప్రయత్నించండి",
+    "@lbl_try_again": {
+        "description": "మళ్లీ ప్రయత్నించండి"
+    },
+    "txt_enter_your_expiry_date": "మీ గడువు తేదీని ఎంటర్ చేయండి",
+    "@txt_enter_your_expiry_date": {
+        "description": "మీ గడువు తేదీని ఎంటర్ చేయండి"
+    },
+    "txt_enter_your_card_name": "మీ కార్డ్ పేరును ఎంటర్ చేయండి",
+    "@txt_enter_your_card_name": {
+        "description": "మీ కార్డ్ పేరును ఎంటర్ చేయండి"
+    },
+    "txt_pay_on_delivery": "డెలివరీపై చెల్లించండి",
+    "@txt_pay_on_delivery": {
+        "description": "డెలివరీపై చెల్లించండి"
+    },
+    "lbl_cash": "నగదు",
+    "@lbl_cash": {
+        "description": "నగదు"
+    },
+    "lbl_pay_cash": "నగదుతో చెల్లించండి.",
+    "@lbl_pay_cash": {
+        "description": "నగదుతో చెల్లించండి."
+    },
+    "lbl_reset_password": "పాస్వర్డ్ మార్చండి",
+    "@lbl_reset_password": {
+        "description": "పాస్వర్డ్ మార్చండి"
+    },
+    "lbl_trending_products": "ట్రెండింగ్ ప్రొడక్ట్స్",
+    "@lbl_trending_products": {
+        "description": "ట్రెండింగ్ ప్రొడక్ట్స్"
+    },
+    "txt_reward_to_wallet": "మీ వాలెట్‌లో రివార్డ్ పాయింట్‌లు విజయవంతంగా జోడించబడ్డాయి. షాపింగ్ ఆనందించండి.",
+    "@txt_reward_to_wallet": {
+        "description": "మీ వాలెట్‌లో రివార్డ్ పాయింట్‌లు విజయవంతంగా జోడించబడ్డాయి. షాపింగ్ ఆనందించండి."
+    },
+    "txt_something_went_wrong": "ఏదో తప్పు జరిగింది",
+    "@txt_something_went_wrong": {
+        "description": "ఏదో తప్పు జరిగింది"
+    },
+    "lbl_rezorpay": "రేజర్ పే",
+    "@lbl_rezorpay": {
+        "description": "రేజర్ పే"
+    },
+    "lbl_sms": "SMS",
+    "@lbl_sms": {
+        "description": "SMS"
+    },
+    "lbl_inapp": "యాప్‌లో",
+    "@lbl_inapp": {
+        "description": "యాప్‌లో"
+    },
+    "lbl_stripe": "స్ట్రిప్",
+    "@lbl_stripe": {
+        "description": "స్ట్రిప్"
+    },
+    "lbl_paystack": "పేస్టాక్",
+    "@lbl_paystack": {
+        "description": "పేస్టాక్"
+    },
+    "hnt_card_number": "కార్డ్ నంబర్",
+    "@hnt_card_number": {
+        "description": "కార్డ్ నంబర్"
+    },
+    "hnt_name_card": "కార్డు మీద ఉన్న పేరు",
+    "@hnt_name_card": {
+        "description": "కార్డు మీద ఉన్న పేరు"
+    },
+    "hnt_valid_through": "చెల్లుబాటు అయ్యే వరకు (MM/YY)",
+    "@hnt_valid_through": {
+        "description": "చెల్లుబాటు అయ్యే వరకు (MM/YY)"
+    },
+    "hnt_cvv": "CVV",
+    "@hnt_cvv": {
+        "description": "CVV"
+    },
+    "lbl_COD": "వస్తువులు అందిన తరువాత నగదు చెల్లించడం",
+    "@lbl_COD": {
+        "description": "వస్తువులు అందిన తరువాత నగదు చెల్లించడం"
+    },
+    "lbl_upi_option": "ఫోన్ పే / గూగుల్ పే / UPI",
+    "@lbl_upi_option": {
+        "description": "ఫోన్ పే / గూగుల్ పే / UPI"
+    },
+    "lbl_wallet_option": "పే టిఎం / వాలెట్ ",
+    "@lbl_wallet_option": {
+        "description": "పే టిఎం / వాలెట్"
+    },
+    "lbl_netbanking": "నెట్ బ్యాంకింగ్",
+    "@lbl_netbanking": {
+        "description": "నెట్ బ్యాంకింగ్"
+    },
+    "tle_my_address": "నా చిరునామా",
+    "@tle_my_address": {
+        "description": "నా చిరునామా"
+    },
+    "tle_all_category": "అన్ని క్యాటగిరీలు",
+    "@tle_all_category": {
+        "description": "అన్ని క్యాటగిరీలు"
+    },
+    "txt_from": "నుండి",
+    "@txt_from": {
+        "description": "నుండి"
+    },
+    "txt_cart": "కార్ట్",
+    "@txt_cart": {
+        "description": "కార్ట్"
+    },
+    "txt_address": "చిరునామా",
+    "@txt_address": {
+        "description": "చిరునామా "
+    },
+    "txt_time": "సమయం",
+    "@txt_time": {
+        "description": "సమయం"
+    },
+    "txt_tax": "పన్ను",
+    "@txt_tax": {
+        "description": "పన్ను"
+    },
+    "btn_instant_delivery": "తక్షణ డెలివరీ అందుబాటులో ఉంది",
+    "@btn_instant_delivery": {
+        "description": "తక్షణ డెలివరీ అందుబాటులో ఉంది"
+    },
+    "txt_payment": "చెల్లింపు",
+    "@txt_payment": {
+        "description": "చెల్లింపు"
+    },
+    "txt_shopping_cart": "షాపింగ్ కార్ట్",
+    "@txt_shopping_cart": {
+        "description": "షాపింగ్ కార్ట్"
+    },
+    "btn_proceed_to_checkout": "చెక్అవుట్‌కు వెళ్లండి",
+    "@btn_proceed_to_checkout": {
+        "description": "చెక్అవుట్‌కు వెళ్లండి"
+    },
+    "btn_make_payment": "చెల్లింపు చేయండి",
+    "@btn_make_payment": {
+        "description": "చెల్లింపు చేయండి"
+    },
+    "txt_select_city": "దయచేసి నగరాన్ని ఎంచుకోండి",
+    "@txt_select_city": {
+        "description": "దయచేసి నగరాన్ని ఎంచుకోండి"
+    },
+    "txt_user_profile": "వినియోగదారు వివరాలు",
+    "@txt_user_profile": {
+        "description": "వినియోగదారు వివరాలు"
+    },
+    "hnt_select_city": "నగరాన్ని ఎంచుకోండి",
+    "@hnt_select_city": {
+        "description": "నగరాన్ని ఎంచుకోండి"
+    },
+    "hnt_search_city": "ఇక్కడ నగరాలను సెర్చ్ చెయ్యండి...",
+    "@hnt_search_city": {
+        "description": "ఇక్కడ నగరాలను సెర్చ్ చెయ్యండి..."
+    },
+    "txt_no_city": "నగరం కనుగొనబడలేదు.",
+    "@txt_no_city": {
+        "description": "నగరం కనుగొనబడలేదు."
+    },
+    "txt_enter_amount": "దయచేసి మొత్తాన్ని ఎంటర్ చేయండి",
+    "@txt_enter_amount": {
+        "description": "దయచేసి మొత్తాన్ని ఎంటర్ చేయండి"
+    },
+    "txt_no_society": "సొసైటీ కనుగొనబడలేదు.",
+    "@txt_no_society": {
+        "description": "సొసైటీ కనుగొనబడలేదు."
+    },
+    "hnt_select_society": "సొసైటీ ఎంచుకోండి",
+    "@hnt_select_society": {
+        "description": "సొసైటీ ఎంచుకోండి"
+    },
+    "lbl_make_product_request": "ప్రోడక్ట్ రిక్వెస్ట్ చేయండి",
+    "@lbl_make_product_request": {
+        "description": "ప్రోడక్ట్ రిక్వెస్ట్ చేయండి"
+    },
+    "lbl_upload_image": "ఇమేజ్ అప్‌లోడ్ చేయండి",
+    "@lbl_upload_image": {
+        "description": "ఇమేజ్ అప్‌లోడ్ చేయండి"
+    },
+    "txt_upload_image_desc": "గ్యాలరీ నుండి ఎంచుకోండి",
+    "@txt_upload_image_desc": {
+        "description": "గ్యాలరీ నుండి ఎంచుకోండి"
+    },
+    "btn_close": "దగ్గరగా",
+    "@btn_close": {
+        "description": "దగ్గరగా"
+    },
+    "btn_confirm_location": " లొకేషన్ నిర్ధారించండి",
+    "@btn_confirm_location": {
+        "description": "లొకేషన్ నిర్ధారించండి"
+    },
+    "lbl_select_address": "చిరునామాను ఎంచుకోండి",
+    "@lbl_select_address": {
+        "description": "చిరునామాను ఎంచుకోండి"
+    },
+    "txt_profile_updated_successfully": "ప్రొఫైల్ విజయవంతంగా అప్డేట్ అయ్యింది",
+    "@txt_profile_updated_successfully": {
+        "description": "ప్రొఫైల్ విజయవంతంగా అప్డేట్ అయ్యింది"
+    },
+    "txt_please_enablet_location_permission_to_use_app": "దయచేసి ఈ యాప్‌ని ఉపయోగించడానికి లొకేషన్ అనుమతిని ప్రారంభించండి",
+    "@txt_please_enablet_location_permission_to_use_app": {
+        "description": "దయచేసి ఈ యాప్‌ని ఉపయోగించడానికి లొకేషన్ అనుమతిని ప్రారంభించండి"
+    },
+    "txt_select_society": "దయచేసి సొసైటీ ఎంచుకోండి",
+    "@txt_select_society": {
+        "description": "దయచేసి సొసైటీ ఎంచుకోండి"
+    },
+    "htn_search_society": "ఇక్కడ సొసైటీని సెర్చ్ చెయ్యండి...",
+    "@htn_search_society": {
+        "description": "ఇక్కడ సొసైటీని సెర్చ్ చెయ్యండి..."
+    },
+    "txt_off": "ఆఫ్",
+    "@txt_off": {
+        "description": "ఆఫ్"
+    },
+    "txt_ratings": "రేటింగ్‌లు",
+    "@txt_ratings": {
+        "description": "రేటింగ్‌లు"
+    },
+    "txt_please_give_ratings": "దయచేసి రేటింగ్ ఇవ్వండి",
+    "@txt_please_give_ratings": {
+        "description": "దయచేసి రేటింగ్ ఇవ్వండి"
+    },
+    "txt_enter_description": "దయచేసి వివరణను ఎంటర్ చేయండి.",
+    "@txt_enter_description": {
+        "description": "దయచేసి వివరణను ఎంటర్ చేయండి."
+    },
+    "lbl_price_details": "ధర వివరాలు",
+    "@lbl_price_details": {
+        "description": "ధర వివరాలు"
+    },
+    "btn_go_to_cart": "కార్ట్‌కి వెళ్లండి",
+    "@btn_go_to_cart": {
+        "description": "కార్ట్‌కి వెళ్లండి"
+    },
+    "lbl_cancel_reason": "కాన్సల్కు కారణం",
+    "@lbl_cancel_reason": {
+        "description": "కాన్సల్కు కారణం"
+    },
+    "lbl_shipping_to": "షిప్పింగ్ కు",
+    "@lbl_shipping_to": {
+        "description": "షిప్పింగ్ కు"
+    },
+    "lbl_cancellation_reason": "కాన్సల్కు కారణం",
+    "@lbl_cancellation_reason": {
+        "description": "కాన్సల్కు కారణం"
+    },
+    "txt_total_price": "మొత్తం MRP",
+    "@txt_total_price": {
+        "description": "మొత్తం MRP"
+    },
+    "lbl_paid_by_wallet": " వాలెట్ ద్వారా చెల్లించబడింది",
+    "@lbl_paid_by_wallet": {
+        "description": "వాలెట్ ద్వారా చెల్లించబడింది"
+    },
+    "txt_discount_price": "MRP పై తగ్గింపు",
+    "@txt_discount_price": {
+        "description": "MRP పై తగ్గింపు"
+    },
+    "txt_discounted_price": "తగ్గింపు ధర",
+        "@txt_discounted_price": {
+            "description": "తగ్గింపు ధర"
+        },
+    "txt_apply_coupon_code": "కూపన్ కోడ్‌ని అప్లై చెయ్యండి ",
+    "@txt_apply_coupon_code": {
+        "description": "కూపన్ కోడ్‌ని అప్లై చెయ్యండి"
+    },
+    "txt_coupon_discount": "కూపన్ తగ్గింపు",
+    "@txt_coupon_discount": {
+        "description": "కూపన్ తగ్గింపు"
+    },
+    "txt_apply_coupon": "కూపన్ అప్లై చెయ్యండి",
+    "@txt_apply_coupon": {
+        "description": "కూపన్ అప్లై చెయ్యండి"
+    },
+    "btn_apply": "అప్లై",
+    "@btn_apply": {
+        "description": "అప్లై"
+    },
+    "lbl_no_store": "స్టోర్ లేదు!",
+    "@lbl_no_store": {
+        "description": "స్టోర్ లేదు!"
+    },
+    "lbl_no_store_at_loc_msg": "మీ లొకేషన్లో దుకాణాలు అందుబాటులో లేవు.",
+    "@lbl_no_store_at_loc_msg": {
+        "description": "మీ లొకేషన్లో దుకాణాలు అందుబాటులో లేవు."
+    },
+    "btn_continue_with_default_location": "డిఫాల్ట్ లొకేషన్తో కొనసాగించండి",
+    "@btn_continue_with_default_location": {
+        "description": "డిఫాల్ట్ లొకేషన్తో కొనసాగించండి"
+    },
+    "btn_search_another_location": "మరొక లొకేషన్ సెర్చ్ చెయ్యండి",
+    "@btn_search_another_location": {
+        "description": "మరొక లొకేషన్ సెర్చ్ చెయ్యండి"
+    },
+    "hnt_search_location": "లొకేషన్ని సెర్చ్ చెయ్యండి",
+    "@hnt_search_location": {
+        "description": "లొకేషన్ని సెర్చ్ చెయ్యండి"
+    },
+    "txt_delivery_charges": "డెలివరీ ఛార్జీలు",
+    "@txt_delivery_charges": {
+        "description": "డెలివరీ ఛార్జీలు"
+    },
+    "lbl_total_amount": "మొత్తం అమౌంట్",
+    "@lbl_total_amount": {
+        "description": "మొత్తం అమౌంట్"
+    },
+    "btn_add_new_address": "కొత్త చిరునామాను ఆడ్ చెయ్యండి",
+    "@btn_add_new_address": {
+        "description": "కొత్త చిరునామాను ఆడ్ చెయ్యండి"
+    },
+    "lbl_select_date": "తేదీని ఎంచుకోండి",
+    "@lbl_select_date": {
+        "description": "తేదీని ఎంచుకోండి"
+    },
+    "lbl_date": "తేదీ",
+    "@lbl_date": {
+        "description": "తేదీ"
+    },
+    "lbl_select_time_slot": "టైమ్ స్లాట్‌ని ఎంచుకోండి",
+    "@lbl_select_time_slot": {
+        "description": "టైమ్ స్లాట్‌ని ఎంచుకోండి "
+    },
+    "btn_req_instant_delivery": "తక్షణ డెలివరీని రిక్వెస్ట్ చెయ్యండి (సభ్యులకు మాత్రమే)",
+    "@btn_req_instant_delivery": {
+        "description": "తక్షణ డెలివరీని రిక్వెస్ట్ చెయ్యండి (సభ్యులకు మాత్రమే)"
+    },
+    "lbl_offer": "ఆఫర్లు",
+    "@lbl_offer": {
+        "description": "ఆఫర్లు"
+    },
+    "txt_show_offers": "ఆఫర్లను చూపించు",
+    "@txt_show_offers": {
+        "description": "ఆఫర్లను చూపించు"
+    },
+    "lbl_forgot_password": "పాస్‌వర్డ్ మర్చిపోయాను",
+    "@lbl_forgot_password": {
+        "description": "పాస్‌వర్డ్ మర్చిపోయాను"
+    },
+    "btn_skip_now": "దాటవేయి",
+    "@btn_skip_now": {
+        "description": "దాటవేయి"
+    },
+    "txt_date_of_delivery": "డెలివరీ తేదీ",
+    "@txt_date_of_delivery": {
+        "description": "డెలివరీ తేదీ"
+    },
+    "tle_languages": "భాషలు",
+    "@tle_languages": {
+        "description": "భాషలు"
+    },
+    "lbl_select_language": "భాషను ఎంచుకోండి",
+    "@lbl_select_language": {
+        "description": "భాషను ఎంచుకోండి"
+    },
+    "tle_contact_us": "మమ్మల్ని సంప్రదించండి",
+    "@tle_contact_us": {
+        "description": "మమ్మల్ని సంప్రదించండి"
+    },
+    "lbl_contact_desc": "మీ విలువైన అభిప్రాయాన్ని మాకు తెలియజేయండి",
+    "@lbl_contact_desc": {
+        "description": "మీ విలువైన అభిప్రాయాన్ని మాకు తెలియజేయండి"
+    },
+    "lbl_name": "పేరు",
+    "@lbl_name": {
+        "description": "పేరు"
+    },
+    "lbl_phone_number": "ఫోను నంబరు",
+    "@lbl_phone_number": {
+        "description": "ఫోను నంబరు"
+    },
+    "lbl_email": "ఇమెయిల్",
+    "@lbl_email": {
+        "description": "ఇమెయిల్"
+    },
+    "lbl_password": "పాస్వర్డ్",
+    "@lbl_password": {
+        "description": "పాస్వర్డ్"
+    },
+    "lbl_confirm_password": "పాస్వర్డ్ను నిర్ధారించండి",
+    "@lbl_confirm_password": {
+        "description": "పాస్వర్డ్ను నిర్ధారించండి"
+    },
+    "lbl_exit_app": "యాప్ నుండి ఎగ్జిట్ అవ్వండి",
+    "@lbl_exit_app": {
+        "description": "యాప్ నుండి ఎగ్జిట్ అవ్వండి"
+    },
+    "btn_exit": "బయటకి దారి",
+    "@btn_exit": {
+        "description": "బయటకి దారి"
+    },
+    "txt_6_digit_msg": "దయచేసి 6 అంకెల OTPని ఎంటర్ చేయండి",
+    "@txt_6_digit_msg": {
+        "description": "దయచేసి 6 అంకెల OTPని ఎంటర్ చేయండి"
+    },
+    "tle_about_us": "మా గురించి",
+    "@tle_about_us": {
+        "description": "మా గురించి"
+    },
+    "tle_term_of_service": "సేవా నిబంధనలు",
+    "@tle_term_of_service": {
+        "description": "సేవా నిబంధనలు"
+    },
+    "tle_cancel_order": "ఆర్డర్ కాన్సల్ చేయండి",
+    "@tle_cancel_order": {
+        "description": "ఆర్డర్ కాన్సల్ చేయండి"
+    },
+    "txt_nothing_to_show": "ఇక్కడ ఇంకా ఏమీ చూడలేదు",
+    "@txt_nothing_to_show": {
+        "description": "ఇక్కడ ఇంకా ఏమీ చూడలేదు"
+    },
+    "tle_edit_address": "చిరునామాను సవరించండి",
+    "@tle_edit_address": {
+        "description": "చిరునామాను సవరించండి"
+    },
+    "txt_logout_app_msg": "మీరు ఖచ్చితంగా యాప్ నుండి లాగ్ అవుట్ చేయాలనుకుంటున్నారా?",
+    "@txt_logout_app_msg": {
+        "description": "మీరు ఖచ్చితంగా యాప్ నుండి లాగ్ అవుట్ చేయాలనుకుంటున్నారా?"
+    },
+    "txt_exit_app_msg": "మీరు ఖచ్చితంగా యాప్ నుండి ఎగ్జిట్ అవ్వాలనుకుంటున్నారా",
+    "@txt_exit_app_msg": {
+        "description": "మీరు ఖచ్చితంగా యాప్ నుండి ఎగ్జిట్ అవ్వాలనుకుంటున్నారా"
+    },
+    "txt_cancel_order_message": "మీరు ఖచ్చితంగా ఈ ఆర్డర్‌ని కాన్సల్ చేయాలనుకుంటున్నారా?",
+    "@txt_cancel_order_message": {
+        "description": "మీరు ఖచ్చితంగా ఈ ఆర్డర్‌ని కాన్సల్ చేయాలనుకుంటున్నారా?"
+    },
+    "txt_add_all_to_cart": "కార్ట్‌కి అన్ని వస్తువులను ఆడ్ చెయ్యండి",
+    "@txt_add_all_to_cart": {
+        "description": "కార్ట్‌కి అన్ని వస్తువులను ఆడ్ చెయ్యండి"
+    },
+    "btn_yes": "అవును",
+    "@btn_yes": {
+        "description": "అవును"
+    },
+    "btn_no": "కాదు",
+    "@btn_no": {
+        "description": "కాదు"
+    },
+    "lbl_confirm": "నిర్ధారించండి",
+    "@lbl_confirm": {
+        "description": "నిర్ధారించండి"
+    },
+    "lbl_referal_code": "రెఫరల్ కోడ్",
+    "@lbl_referal_code": {
+        "description": "రెఫరల్ కోడ్"
+    },
+    "lbl_city": "నగరం",
+    "@lbl_city": {
+        "description": "నగరం"
+    },
+    "lbl_society": "సొసైటీ",
+    "@lbl_society": {
+        "description": "సొసైటీ"
+    },
+    "lbl_your_feedback": "మీ అభిప్రాయం",
+    "@lbl_your_feedback": {
+        "description": "మీ అభిప్రాయం"
+    },
+    "hnt_enter_msg": "మీ సందేశాన్ని ఎంటర్ చేయండి",
+    "@hnt_enter_msg": {
+        "description": "మీ సందేశాన్ని ఎంటర్ చేయండి"
+    },
+    "btn_submit": "సమర్పించండి",
+    "@btn_submit": {
+        "description": "సమర్పించండి"
+    },
+    "tle_delivery_location": "డెలివరీ లొకేషన్",
+    "@tle_delivery_location": {
+        "description": "డెలివరీ లొకేషన్"
+    },
+    "hnt_search_new_location": "కొత్త లొకేషన్ని సెర్చ్ చెయ్యండి",
+    "@hnt_search_new_location": {
+        "description": "కొత్త లొకేషన్ని సెర్చ్ చెయ్యండి"
+    },
+    "lbl_use_current_location": "ప్రస్తుత లొకేషన్ని ఉపయోగించండి",
+    "@lbl_use_current_location": {
+        "description": "ప్రస్తుత లొకేషన్ని ఉపయోగించండి"
+    },
+    "lbl_use_saved_location": "సేవ్ చేసిన లొకేషన్లను ఉపయోగించండి",
+    "@lbl_use_saved_location": {
+        "description": "సేవ్ చేసిన లొకేషన్లను ఉపయోగించండి"
+    },
+    "lbl_saved": "సేవ్ చేయబడింది",
+    "@lbl_saved": {
+        "description": "సేవ్ చేయబడింది"
+    },
+    "lbl_recent_searched_location": "ఇటీవల వెతికినా లొకేషన్లు",
+    "@lbl_recent_searched_location": {
+        "description": "ఇటీవల వెతికినా లొకేషన్లు"
+    },
+    "tle_filter_option": "ఫిల్టర్ ఒప్షన్స్",
+    "@tle_filter_option": {
+        "description": "ఫిల్టర్ ఒప్షన్స్"
+    },
+    "lbl_sort_by_name": "పేరు ద్వారా అమర్చండి",
+    "@lbl_sort_by_name": {
+        "description": "పేరు ద్వారా అమర్చండి"
+    },
+    "txt_A_Z": "A to Z",
+    "@txt_A_Z": {
+        "description": "A టు Z"
+    },
+    "txt_Z_A": "Z to A",
+    "@txt_Z_A": {
+        "description": "Z టు A"
+    },
+    "lbl_sort_by_rating": "రేటింగ్ ద్వారా అమర్చండి",
+    "@lbl_sort_by_rating": {
+        "description": "రేటింగ్ ద్వారా అమర్చండి"
+    },
+    "txt_1_2_stars": "1 - 2 స్టార్స్",
+    "@txt_1_2_stars": {
+        "description": "1 - 2 స్టార్స్"
+    },
+    "txt_2_3_stars": "2 - 3 స్టార్స్",
+    "@txt_2_3_stars": {
+        "description": "2 - 3 స్టార్స్"
+    },
+    "txt_3_4_stars": "3 - 4 స్టార్స్",
+    "@txt_3_4_stars": {
+        "description": "3 - 4 స్టార్స్"
+    },
+    "txt_4_5_stars": "4 - 5 స్టార్స్",
+    "@txt_4_5_stars": {
+        "description": "4 - 5 స్టార్స్"
+    },
+    "lbl_sort_by_price": "ధర ద్వారా అమర్చండి",
+    "@lbl_sort_by_price": {
+        "description": "ధర ద్వారా అమర్చండి"
+    },
+    "txt_low_to_high": "తక్కువ నుండి ఎక్కువ",
+    "@txt_low_to_high": {
+        "description": "తక్కువ నుండి ఎక్కువ"
+    },
+    "txt_high_to_low": "ఎక్కువ నుండి తక్కువ",
+    "@txt_high_to_low": {
+        "description": "ఎక్కువ నుండి తక్కువ"
+    },
+    "lbl_sort_by_discount": "డిస్కౌంట్ల వారీగా అమర్చండి",
+    "@lbl_sort_by_discount": {
+        "description": "డిస్కౌంట్ల వారీగా అమర్చండి"
+    },
+    "lbl_sort_by": "ఆమరిక",
+    "@lbl_sort_by": {
+        "description": "ఆమరిక"
+    },
+    "lbl_latest": "తాజా",
+    "@lbl_latest": {
+        "description": "తాజా"
+    },
+    "lbl_old": "పాతది",
+    "@lbl_old": {
+        "description": "పాతది"
+    },
+    "lbl_10_25_percent": "10 - 25%",
+    "@lbl_10_25_percent": {
+        "description": "10 - 25%"
+    },
+    "lbl_25_50_percent": "25 - 50%",
+    "@lbl_25_50_percent": {
+        "description": "25 - 50%"
+    },
+    "lbl_50_75_percent": "50 - 70%",
+    "@lbl_50_75_percent": {
+        "description": "50 - 70%"
+    },
+    "lbl_above_70_percent": "70% పైన",
+    "@lbl_above_70_percent": {
+        "description": "70% పైన"
+    },
+    "lbl_sort_by_availability": "లభ్యత ద్వారా అమర్చండి",
+    "@lbl_sort_by_availability": {
+        "description": "లభ్యత ద్వారా అమర్చండి"
+    },
+    "txt_in_stock": "అందుబాటులో ఉంది",
+    "@txt_in_stock": {
+        "description": "అందుబాటులో ఉంది"
+    },
+    "txt_out_of_stock": "స్టాక్ లేదు",
+    "@txt_out_of_stock": {
+        "description": "స్టాక్ లేదు"
+    },
+    "btn_apply_filter": "ఫిల్టర్‌ని అప్లై చెయ్యండి",
+    "@btn_apply_filter": {
+        "description": "ఫిల్టర్‌ని అప్లై చెయ్యండి"
+    },
+    "txt_deliver": "డెలివరీ చేసేది",
+    "@txt_deliver": {
+        "description": "డెలివరీ చేసేది"
+    },
+    "btn_view_all": "అన్నీ చూడండి",
+    "@btn_view_all": {
+        "description": "అన్నీ చూడండి"
+    },
+    "lbl_top_selling": "అత్యధికంగా అమ్ముడవుతోంది",
+    "@lbl_top_selling": {
+        "description": "అత్యధికంగా అమ్ముడవుతోంది"
+    },
+    "lbl_reward": "రివార్డ్స్",
+    "@lbl_reward": {
+        "description": "రివార్డ్స్"
+    },
+    "lbl_in_spotlight": "స్పాట్‌లైట్",
+    "@lbl_in_spotlight": {
+        "description": "స్పాట్‌లైట్"
+    },
+    "lbl_recent_selling": "ఇటీవలి అమ్మకం",
+    "@lbl_recent_selling": {
+        "description": "ఇటీవలి అమ్మకం"
+    },
+    "lbl_whats_new": "కొత్తవి ఏమిటి",
+    "@lbl_whats_new": {
+        "description": "కొత్తవి ఏమిటి"
+    },
+    "lbl_deal_products": "టాప్ డీల్స్",
+    "@lbl_deal_products": {
+        "description": "టాప్ డీల్స్"
+    },
+    "lbl_bundle_offers": "బండిల్ ఆఫర్‌లు",
+    "@lbl_bundle_offers": {
+        "description": "బండిల్ ఆఫర్‌లు"
+    },
+    "lbl_popular": "పాపులర్",
+    "@lbl_popular": {
+        "description": "పాపులర్"
+    },
+    "lbl_platinum_pro": "ప్లాటినం ప్రో",
+    "@lbl_platinum_pro": {
+        "description": "ప్లాటినం ప్రో"
+    },
+    "btn_get_started": "ప్రారంభించడానికి",
+    "@btn_get_started": {
+        "description": "ప్రారంభించడానికి"
+    },
+    "btn_signup": "సైన్ అప్",
+    "@btn_signup": {
+        "description": "సైన్ అప్"
+    },
+    "tle_login_signup": "లాగిన్ చేయండి లేదా సైన్ అప్ చేయండి",
+    "@tle_login_signup": {
+        "description": "లాగిన్ చేయండి లేదా సైన్ అప్ చేయండి"
+    },
+    "lbl_already_have_account": "ఖాతా కలిగి ఉన్నారా ?",
+    "@lbl_already_have_account": {
+        "description": "ఖాతా కలిగి ఉన్నారా ?"
+    },
+    "txt_provide_number_desc": "దయచేసి మీ నంబర్‌ను అందించండి",
+    "@txt_provide_number_desc": {
+        "description": "దయచేసి మీ నంబర్‌ను అందించండి"
+    },
+    "txt_delivery_details": "డెలివరీ వివరాలు",
+    "@txt_delivery_details": {
+        "description": "డెలివరీ వివరాలు"
+    },
+    "txt_otp_verification_desc": "ధృవీకరణ కోసం 6 అంకెల OTP పంపబడుతుంది",
+    "@txt_otp_verification_desc": {
+        "description": "ధృవీకరణ కోసం 6 అంకెల OTP పంపబడుతుంది"
+    },
+    "txt_select_deluvery_address": "దయచేసి డెలివరీ చిరునామాను ఎంచుకోండి.",
+    "@txt_select_deluvery_address": {
+        "description": "దయచేసి డెలివరీ చిరునామాను ఎంచుకోండి."
+    },
+    "txt_upload_product_image": " ప్రోడక్ట్ చిత్రాన్ని అప్‌లోడ్ చేయండి",
+    "@txt_upload_product_image": {
+        "description": "ప్రోడక్ట్ చిత్రాన్ని అప్‌లోడ్ చేయండి"
+    },
+    "txt_select_date": "దయచేసి తేదీని ఎంచుకోండి.",
+    "@txt_select_date": {
+        "description": "దయచేసి తేదీని ఎంచుకోండి."
+    },
+    "txt_select_time_slot": "దయచేసి టైమ్ స్లాట్‌ని ఎంచుకోండి.",
+    "@txt_select_time_slot": {
+        "description": "దయచేసి టైమ్ స్లాట్‌ని ఎంచుకోండి."
+    },
+    "btn_send_otp": "OTPని పంపండి",
+    "@btn_send_otp": {
+        "description": "OTPని పంపండి"
+    },
+    "btn_login": "లాగిన్",
+    "@btn_login": {
+        "description": "లాగిన్"
+    },
+    "txt_login_signup_using": "లేదా ఉపయోగించి లాగిన్/సైన్ అప్ చేయండి",
+    "@txt_login_signup_using": {
+        "description": "లేదా ఉపయోగించి లాగిన్/సైన్ అప్ చేయండి"
+    },
+    "tle_membership": "మెంబర్షిప్",
+    "@tle_membership": {
+        "description": "మెంబర్షిప్"
+    },
+    "tle_membership_expiry": "మీకు కొనసాగుతున్న మెంబర్షిప్ గడువు ముగిసే వరకు మీరు మరొకటి కొనుగోలు చేయలేరు.",
+    "@tle_membership_expiry": {
+        "description": "మీకు కొనసాగుతున్న మెంబర్షిప్ గడువు ముగిసే వరకు మీరు మరొకటి కొనుగోలు చేయలేరు."
+    },
+    "tle_subscription": "మెంబెర్షిప్ని కొనుగోలు చేయండి",
+    "@tle_subscription": {
+        "description": "మెంబెర్షిప్ని కొనుగోలు చేయండి"
+    },
+    "tle_membership_bought_sucessfully": "మెంబర్షిప్ విజయవంతంగా కొనుగోలు చేయబడింది.",
+    "@tle_membership_bought_sucessfully": {
+        "description": "మెంబర్షిప్ విజయవంతంగా కొనుగోలు చేయబడింది."
+    },
+    "tle_login_with": "ఇచ్చిన వాటితో లాగిన్ అవ్వండి",
+    "@tle_login_with": {
+        "description": "ఇచ్చిన వాటితో లాగిన్ అవ్వండి"
+    },
+    "tle_delete_address": "చిరునామాను తొలగించండి",
+    "@tle_delete_address": {
+        "description": "చిరునామాను తొలగించండి"
+    },
+    "lbl_choose_plan": "మీ ప్లాన్ ని ఎంచుకోండి",
+    "@lbl_choose_plan": {
+        "description": "మీ ప్లాన్ ని ఎంచుకోండి"
+    },
+    "txt_membership_desc": "మేము మా కస్టమర్‌లకు విలువనిస్తాము, ఎక్కువ ప్రయోజనం పొందడానికి ప్రధాన సభ్యునిగా అయ్యాము",
+    "@txt_membership_desc": {
+        "description": "మేము మా కస్టమర్‌లకు విలువనిస్తాము, ఎక్కువ ప్రయోజనం పొందడానికి ప్రధాన సభ్యునిగా అయ్యాము"
+    },
+    "txt_email_password": "ఇమెయిల్ మరియు పాస్వర్డ్",
+    "@txt_email_password": {
+        "description": "ఇమెయిల్ మరియు పాస్వర్డ్"
+    },
+    "tle_notification": "నోటిఫికేషన్‌లు",
+    "@tle_notification": {
+        "description": "నోటిఫికేషన్‌లు"
+    },
+    "tle_order_summary": "కొనుగోలు వివరణ",
+    "@tle_order_summary": {
+        "description": "కొనుగోలు వివరణ"
+    },
+    "txt_status": "స్టేటస్",
+    "@txt_status": {
+        "description": "స్టేటస్"
+    },
+    "txt_delivered": "డెలివరీ చేయబడింది",
+    "@txt_delivered": {
+        "description": "డెలివరీ చేయబడింది"
+    },
+    "btn_add_rating": "రేటింగ్‌లను ఆడ్ చెయ్యండి",
+    "@btn_add_rating": {
+        "description": "రేటింగ్‌లను ఆడ్ చెయ్యండి"
+    },
+    "lbl_map": "మ్యాప్",
+    "@lbl_map": {
+        "description": "మ్యాప్"
+    },
+    "btn_re_order": "మళ్లీ ఆర్డర్ చేయండి",
+    "@btn_re_order": {
+        "description": "మళ్లీ ఆర్డర్ చేయండి"
+    },
+    "tle_order_history": "ఆర్డర్ హిస్టరీ",
+    "@tle_order_history": {
+        "description": "ఆర్డర్ హిస్టరీ"
+    },
+    "lbl_all_orders": "అన్ని ఆర్డర్లు",
+    "@lbl_all_orders": {
+        "description": "అన్ని ఆర్డర్లు"
+    },
+    "lbl_past_orders": "గత ఆర్డర్లు",
+    "@lbl_past_orders": {
+        "description": "గత ఆర్డర్లు"
+    },
+    "tle_my_order": "నా ఆర్డర్లు",
+    "@tle_my_order": {
+        "description": "నా ఆర్డర్లు"
+    },
+    "tle_congrates": "అభినందనలు !",
+    "@tle_congrates": {
+        "description": "అభినందనలు !"
+    },
+    "txt_order_success_description": "మీ ఆర్డర్ విజయవంతంగా ఉంచబడింది. వేచి ఉండండి, మా డెలివరీ భాగస్వామి త్వరలో మిమ్మల్ని సంప్రదిస్తారు.",
+    "@txt_order_success_description": {
+        "description": "మీ ఆర్డర్ విజయవంతంగా ఉంచబడింది. వేచి ఉండండి, మా డెలివరీ భాగస్వామి త్వరలో మిమ్మల్ని సంప్రదిస్తారు."
+    },
+    "btn_go_home": "తిరిగి హోమ్ పేజి కి వెళ్ళండి",
+    "@btn_go_home": {
+        "description": "తిరిగి హోమ్ పేజి కి వెళ్ళండి"
+    },
+    "btn_track_order": "మీ ఆర్డర్‌ని ట్రాక్ చేయండి",
+    "@btn_track_order": {
+        "description": "మీ ఆర్డర్‌ని ట్రాక్ చేయండి"
+    },
+    "btn_browse_more": "మరిన్ని బ్రౌజ్ చేయండి",
+    "@btn_browse_more": {
+        "description": "మరిన్ని బ్రౌజ్ చేయండి"
+    },
+    "tle_verify_number": "సంఖ్యను ధృవీకరించండి",
+    "@tle_verify_number": {
+        "description": "సంఖ్యను ధృవీకరించండి"
+    },
+    "tle_verify_otp": "OTPని ధృవీకరించండి",
+    "@tle_verify_otp": {
+        "description": "OTPని ధృవీకరించండి"
+    },
+    "tle_verify_otp_sent_desc": "మీరు ఇచ్చిన ఫోన్ నంబర్‌కు OTP పంపబడింది",
+    "@tle_verify_otp_sent_desc": {
+        "description": "మీరు ఇచ్చిన ఫోన్ నంబర్‌కు OTP పంపబడింది"
+    },
+    "txt_otp_sent_desc": "మీ నంబర్‌కు 6 అంకెల OTP పంపబడింది",
+    "@txt_otp_sent_desc": {
+        "description": "మీ నంబర్‌కు 6 అంకెల OTP పంపబడింది"
+    },
+    "txt_otp_verify_desc": "దయచేసి మీ నంబర్‌ని ధృవీకరించడానికి OTPని ఎంటర్ చేయండి",
+    "@txt_otp_verify_desc": {
+        "description": "దయచేసి మీ నంబర్‌ని ధృవీకరించడానికి OTPని ఎంటర్ చేయండి"
+    },
+    "txt_enter_otp": "OTPని మాన్యువల్‌గా ఎంటర్ చేయండి",
+    "@txt_enter_otp": {
+        "description": "OTPని మాన్యువల్‌గా ఎంటర్ చేయండి"
+    },
+    "btn_submit_login": "సమర్పించండి & లాగిన్ చేయండి",
+    "@btn_submit_login": {
+        "description": "సమర్పించండి & లాగిన్ చేయండి"
+    },
+    "txt_didnt_receive_otp": "ఇంకా OTP అందలేదా?",
+    "@txt_didnt_receive_otp": {
+        "description": "ఇంకా OTP అందలేదా?"
+    },
+    "btn_resend_otp": "OTP ను మళ్ళీ పంపు",
+    "@btn_resend_otp": {
+        "description": "OTP ను మళ్ళీ పంపు"
+    },
+    "tle_product_details": "వస్తువు యొక్క వివరాలు",
+    "@tle_product_details": {
+        "description": "వస్తువు యొక్క వివరాలు"
+    },
+    "lbl_similar_products": "సిమిలర్ ప్రోడక్ట్లు",
+    "@lbl_similar_products": {
+        "description": "సిమిలర్ ప్రోడక్ట్లు"
+    },
+    "tle_edit_profile": "ప్రొఫైల్‌ని సవరించండి",
+    "@tle_edit_profile": {
+        "description": "ప్రొఫైల్‌ని సవరించండి"
+    },
+    "btn_update_profile_picture": "ప్రొఫైల్ చిత్రాన్ని నవీకరించండి",
+    "@btn_update_profile_picture": {
+        "description": "ప్రొఫైల్ చిత్రాన్ని నవీకరించండి"
+    },
+    "btn_add_profile_picture": "ప్రొఫైల్ చిత్రాన్ని ఆడ్ చెయ్యండి",
+    "@btn_add_profile_picture": {
+        "description": "ప్రొఫైల్ చిత్రాన్ని ఆడ్ చెయ్యండి"
+    },
+    "lbl_edit_name": "పేరును సవరించండి",
+    "@lbl_edit_name": {
+        "description": "పేరును సవరించండి"
+    },
+    "btn_save_update": "సేవ్ & అప్‌డేట్ చేయండి",
+    "@btn_save_update": {
+        "description": "సేవ్ & అప్‌డేట్ చేయండి"
+    },
+    "btn_my_orders": "నా ఆర్డర్లు",
+    "@btn_my_orders": {
+        "description": "నా ఆర్డర్లు"
+    },
+    "btn_my_wallet": "నా వాల్లెట్",
+    "@btn_my_wallet": {
+        "description": "నా వాల్లెట్"
+    },
+    "btn_wishlist": "విషలిస్టు",
+    "@btn_wishlist": {
+        "description": "విషలిస్టు"
+    },
+    "btn_notification": "నోటిఫికేషన్",
+    "@btn_notification": {
+        "description": "నోటిఫికేషన్"
+    },
+    "btn_membership": "మెంబర్షిప్",
+    "@btn_membership": {
+        "description": "మెంబర్షిప్"
+    },
+    "btn_reward": "బహుమతి",
+    "@btn_reward": {
+        "description": "బహుమతి"
+    },
+    "btn_refer_earn": "సూచించండి & సంపాదించండి",
+    "@btn_refer_earn": {
+        "description": "సూచించండి & సంపాదించండి"
+    },
+    "btn_mode": "మోడ్",
+    "@btn_mode": {
+        "description": "మోడ్"
+    },
+    "btn_about_app": "యాప్ గురించి",
+    "@btn_about_app": {
+        "description": "యాప్ గురించి"
+    },
+    "btn_app_setting": "యాప్ సెట్టింగ్‌లు",
+    "@btn_app_setting": {
+        "description": "యాప్ సెట్టింగ్‌లు"
+    },
+    "btn_logout": "లాగ్అవుట్",
+    "@btn_logout": {
+        "description": "లాగ్అవుట్"
+    },
+    "btn_rate_order": "రేట్ ఆర్డర్లు",
+    "@btn_rate_order": {
+        "description": "రేట్ ఆర్డర్లు"
+    },
+    "lbl_order_id": "ఆర్డర్ గుర్తింపు సంఖ్యా",
+    "@lbl_order_id": {
+        "description": "ఆర్డర్ గుర్తింపు సంఖ్యా"
+    },
+    "lbl_order": "ఆర్డర్స్",
+    "@lbl_order": {
+        "description": "ఆర్డర్స్"
+    },
+    "lbl_number_of_items": "ఐటమ్స్ సంఖ్య",
+    "@lbl_number_of_items": {
+        "description": "ఐటమ్స్ సంఖ్య"
+    },
+    "lbl_delivered_on": "డెలివరీ చేయబడిన తేదీ",
+    "@lbl_delivered_on": {
+        "description": "డెలివరీ చేయబడిన తేదీ"
+    },
+    "lbl_rate_overall_exp": "మొత్తం అనుభవాన్ని రేట్ చేయండి",
+    "@lbl_rate_overall_exp": {
+        "description": "మొత్తం అనుభవాన్ని రేట్ చేయండి"
+    },
+    "hnt_comment": "మీ అభిప్రాయం",
+    "@hnt_comment": {
+        "description": "మీ అభిప్రాయం"
+    },
+    "btn_submit_rating": "రేటింగ్‌ను సమర్పించండి",
+    "@btn_submit_rating": {
+        "description": "రేటింగ్‌ను సమర్పించండి"
+    },
+    "tle_invite_earn": "ఆహ్వానించండి & సంపాదించండి",
+    "@tle_invite_earn": {
+        "description": "ఆహ్వానించండి & సంపాదించండి"
+    },
+    "txt_refer_msg": "1 నుండి 15 వరకు వాలెట్ అమౌంట్ని రెఫెర్ చెయ్యండి మరియు సంపాదించండి",
+    "@txt_refer_msg": {
+        "description": "1 నుండి 15 వరకు వాలెట్ అమౌంట్ని రెఫెర్ చెయ్యండి మరియు సంపాదించండి"
+    },
+    "txt_share_msg": "దిగువన మీ కోడ్‌ను షేర్ చేయండి మరియు రిజిస్ట్రేషన్ సమయంలో దానిని ఎంటర్ చేయమని వారిని అడగండి. మీ స్నేహితులు మా యాప్‌లో సైన్ అప్ చేసినప్పుడు సంపాదించండి.",
+    "@txt_share_msg": {
+        "description": "దిగువన మీ కోడ్‌ను షేర్ చేయండి మరియు రిజిస్ట్రేషన్ సమయంలో దానిని ఎంటర్ చేయమని వారిని అడగండి. మీ స్నేహితులు మా యాప్‌లో సైన్ అప్ చేసినప్పుడు సంపాదించండి."
+    },
+    "txt_tap_to_copy": "కాపీ చేయడానికి నొక్కండి",
+    "@txt_tap_to_copy": {
+        "description": "కాపీ చేయడానికి నొక్కండి"
+    },
+    "btn_invite_friends": "స్నేహితులను ఆహ్వానించండి",
+    "@btn_invite_friends": {
+        "description": "స్నేహితులను ఆహ్వానించండి"
+    },
+    "tle_reward_points": "రివార్డ్ పాయింట్లు",
+    "@tle_reward_points": {
+        "description": "రివార్డ్ పాయింట్లు"
+    },
+    "lbl_reward_points": "మీ రివార్డ్ పాయింట్లు",
+    "@lbl_reward_points": {
+        "description": "మీ రివార్డ్ పాయింట్లు"
+    },
+    "btn_redeem_points": "పాయింట్లను రీడీమ్ చేయండి",
+    "@btn_redeem_points": {
+        "description": "పాయింట్లను రీడీమ్ చేయండి"
+    },
+    "hnt_search_for_products": "ప్రొడ్యూట్స్లు కోసం సెర్చ్ చెయ్యండి",
+    "@hnt_search_for_products": {
+        "description": "ప్రొడ్యూట్స్లు కోసం సెర్చ్ చెయ్యండి"
+    },
+    "lbl_recent_search": "రీసెంట్ సేర్చేస్",
+    "@lbl_recent_search": {
+        "description": "రీసెంట్ సేర్చేస్"
+    },
+    "btn_load_more": "మరింత లోడ్ చేయండి",
+    "@btn_load_more": {
+        "description": "మరింత లోడ్ చేయండి"
+    },
+    "tle_search_by_top_selling": "అత్యధికంగా అమ్ముడవుతున్న వాటి ద్వారా సెర్చ్ చెయ్యండి",
+    "@tle_search_by_top_selling": {
+        "description": "అత్యధికంగా అమ్ముడవుతున్న వాటి ద్వారా సెర్చ్ చెయ్యండి"
+    },
+    "tle_platinum_pro": "ప్లాటినం ప్రో",
+    "@tle_platinum_pro": {
+        "description": "ప్లాటినం ప్రో"
+    },
+    "lbl_subscription_plan": "సబ్‌స్క్రిప్షన్ ప్లాన్",
+    "@lbl_subscription_plan": {
+        "description": "సబ్‌స్క్రిప్షన్ ప్లాన్"
+    },
+    "btn_subscribe_this_plan": "ఈ ప్లాన్‌ని సబ్‌స్క్రైబ్ చేసుకోండి",
+    "@btn_subscribe_this_plan": {
+        "description": "ఈ ప్లాన్‌ని సబ్‌స్క్రైబ్ చేసుకోండి"
+    },
+    "btn_explore_other_plan": "ఇతర ప్లన్స్ ని అన్వేషించండి",
+    "@btn_explore_other_plan": {
+        "description": "ఇతర ప్లన్స్ ని అన్వేషించండి"
+    },
+    "tle_track_order": "ఆర్డర్‌ని ట్రాక్ చేయండి",
+    "@tle_track_order": {
+        "description": "ఆర్డర్‌ని ట్రాక్ చేయండి"
+    },
+    "txt_estimate_time": "డెలివరీ అయ్యి అంచనా సమయం",
+    "@txt_estimate_time": {
+        "description": "డెలివరీ అయ్యి అంచనా సమయం"
+    },
+    "lbl_order_place_on": "ఆర్డర్ చేయబడింది",
+    "@lbl_order_place_on": {
+        "description": "ఆర్డర్ చేయబడింది"
+    },
+    "lbl_order_deliver": "ఆర్డర్ మీకు డెలివరీ చేయబడింది",
+    "@lbl_order_deliver": {
+        "description": "ఆర్డర్ మీకు డెలివరీ చేయబడింది"
+    },
+    "lbl_order_cancel": "ఆర్డర్ కాన్సల్ చేయబడింది",
+    "@lbl_order_cancel": {
+        "description": "ఆర్డర్ కాన్సల్ చేయబడింది"
+    },
+    "btn_reorder_items": "వస్తువులను మళ్లీ ఆర్డర్ చేయండి",
+    "@btn_reorder_items": {
+        "description": "వస్తువులను మళ్లీ ఆర్డర్ చేయండి"
+    },
+    "txt_completed": "పూర్తయింది",
+    "@txt_completed": {
+        "description": "పూర్తయింది"
+    },
+    "lbl_out_of_delivery": "డెలివరీ చెయుటకు తీసుకువస్తున్నారు",
+    "@lbl_out_of_delivery": {
+        "description": "డెలివరీ చెయుటకు తీసుకువస్తున్నారు"
+    },
+    "lbl_order_confirmed": "ఆర్డర్ కంఫర్మ్ చేయబడింది",
+    "@lbl_order_confirmed": {
+        "description": "ఆర్డర్ కంఫర్మ్ చేయబడింది"
+    },
+    "lbl_order_added_to_cart": "ఆర్డర్ కార్ట్‌కి ఆడ్ చేయబడింది & ఉంచబడింది",
+    "@lbl_order_added_to_cart": {
+        "description": "ఆర్డర్ కార్ట్‌కి ఆడ్ చేయబడింది & ఉంచబడింది"
+    },
+    "lbl_available_balance": "అందుబాటులో ఉన్న బ్యాలెన్స్",
+    "@lbl_available_balance": {
+        "description": "అందుబాటులో ఉన్న బ్యాలెన్స్"
+    },
+    "lbl_recharge_history": "రీఛార్జ్ హిస్టరీ",
+    "@lbl_recharge_history": {
+        "description": "రీఛార్జ్ హిస్టరీ"
+    },
+    "lbl_wallet": "వాలెట్",
+    "@lbl_wallet": {
+        "description": "వాలెట్"
+    },
+    "lbl_wallet_recharge": "వాలెట్ రీఛార్జ్",
+    "@lbl_wallet_recharge": {
+        "description": "వాలెట్ రీఛార్జ్"
+    },
+    "lbl_spent_analysis": "ఖర్చు విశ్లేషణ",
+    "@lbl_spent_analysis": {
+        "description": "ఖర్చు విశ్లేషణ"
+    },
+    "txt_wallet_recharge_successfully": "వాలెట్ విజయవంతంగా రీఛార్జ్ చేయబడింది. మీ ప్రయాణాన్ని ఆస్వాదించండి.",
+    "@txt_wallet_recharge_successfully": {
+        "description": "వాలెట్ విజయవంతంగా రీఛార్జ్ చేయబడింది. మీ ప్రయాణాన్ని ఆస్వాదించండి."
+    },
+    "lbl_spent": "ఖర్చు పెట్టారు",
+    "@lbl_spent": {
+        "description": "ఖర్చు పెట్టారు"
+    },
+    "lbl_razoypay": "రేజర్పే",
+    "@lbl_razoypay": {
+        "description": "రేజర్పే"
+    },
+    "hnt_enter_amount": "అమౌంట్ ఎంటర్ చెయ్యండి",
+    "@hnt_enter_amount": {
+        "description": "అమౌంట్ ఎంటర్ చెయ్యండి"
+    },
+    "lbl_other_methods": "ఇతర పద్ధతులు",
+    "@lbl_other_methods": {
+        "description": "ఇతర పద్ధతులు"
+    },
+    "btn_add_all_to_cart": "కార్ట్‌కు అన్ని వస్తువులను ఆడ్ చెయ్యండి",
+    "@btn_add_all_to_cart": {
+        "description": "కార్ట్‌కు అన్ని వస్తువులను ఆడ్ చెయ్యండి"
+    },
+    "lbl_callback_desc": "మీరు మా నుండి కాల్ బ్యాక్ కోసం రిక్వెస్ట్ చెయ్యలి అనుకుంటున్నారా?",
+    "@lbl_callback_desc": {
+        "description": "మీరు మా నుండి కాల్ బ్యాక్ కోసం రిక్వెస్ట్ చెయ్యలి అనుకుంటున్నారా?"
+    },
+    "btn_ok": "ఓకే",
+    "@btn_ok": {
+        "description": "ఓకే"
+    },
+    "lbl_delete_address_desc": "మీరు ఖచ్చితంగా ఈ చిరునామాను డిలీట్ చెయ్యలి అనుకుంటున్నారా?",
+    "@lbl_delete_address_desc": {
+        "description": "మీరు ఖచ్చితంగా ఈ చిరునామాను డిలీట్ చెయ్యలి అనుకుంటున్నారా"
+    },
+    "lbl_coupons": "కూపన్లు",
+    "@lbl_coupons": {
+        "description": "కూపన్లు"
+    },
+    "txt_no_coupon_msg": "కూపన్‌లు ఏవీ కనుగొనబడలేదు.",
+    "@txt_no_coupon_msg": {
+        "description": "కూపన్‌లు ఏవీ కనుగొనబడలేదు."
+    },
+    "lbl_select_store": "స్టోర్ ఎంచుకోండి",
+    "@lbl_select_store": {
+        "description": "స్టోర్ ఎంచుకోండి"
+    },
+    "btn_callback_request": "కాల్ బ్యాక్ రిక్వెస్ట్",
+    "@btn_callback_request": {
+        "description": "కాల్ బ్యాక్ రిక్వెస్ట్"
+    },
+    "lbl_actions": "చర్యలు",
+    "@lbl_actions": {
+        "description": "చర్యలు"
+    },
+    "lbl_take_picture": "ఫోటో ని తియ్యండి",
+    "@lbl_take_picture": {
+        "description": "ఫోటో ని తియ్యండి"
+    },
+    "lbl_delete_notification": "అన్ని నోటిఫికేషన్‌లను డిలీట్ చెయ్యండి",
+    "@lbl_delete_notification": {
+        "description": "అన్ని నోటిఫికేషన్‌లను డిలీట్ చెయ్యండి"
+    },
+    "txt_delete_notification_desc": "మీరు ఖచ్చితంగా అన్ని నోటిఫికేషన్‌లను తొలగించాలనుకుంటున్నారా?",
+    "@txt_delete_notification_desc": {
+        "description": "మీరు ఖచ్చితంగా అన్ని నోటిఫికేషన్‌లను తొలగించాలనుకుంటున్నారా?"
+    },
+    "lbl_choose_from_library": "లైబ్రరీ నుండి ఎంచుకోండి",
+    "@lbl_choose_from_library": {
+        "description": "లైబ్రరీ నుండి ఎంచుకోండి"
+    },
+    "lbl_cancel": "కాన్సల్",
+    "@lbl_cancel": {
+        "description": "కాన్సల్"
+    },
+    "txt_please_enter_your_name": "దయచేసి మీ పేరు ఎంటర్ చేయండి",
+    "@txt_please_enter_your_name": {
+        "description": "దయచేసి మీ పేరు ఎంటర్ చేయండి"
+    },
+    "txt_please_enter_your_email": "దయచేసి మీ ఇమెయిల్ ఐడిని ఎంటర్ చేయండి",
+    "@txt_please_enter_your_email": {
+        "description": "దయచేసి మీ ఇమెయిల్ ఐడిని ఎంటర్ చేయండి"
+    },
+    "txt_please_enter_your_valid_email": "దయచేసి మీ చెల్లుబాటు అయ్యే ఇమెయిల్ ఐడిని ఎంటర్ చేయండి",
+    "@txt_please_enter_your_valid_email": {
+        "description": "దయచేసి మీ చెల్లుబాటు అయ్యే ఇమెయిల్ ఐడిని ఎంటర్ చేయండి"
+    },
+    "txt_please_enter_valid_mobile_number": "దయచేసి మీ చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను ఎంటర్ చేయండి",
+    "@txt_please_enter_valid_mobile_number": {
+        "description": "దయచేసి మీ చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను ఎంటర్ చేయండి"
+    },
+    "txt_please_enter_your_password": "దయచేసి మీ పాస్‌వర్డ్‌ను ఎంటర్ చేయండి",
+    "@txt_please_enter_your_password": {
+        "description": "దయచేసి మీ పాస్‌వర్డ్‌ను ఎంటర్ చేయండి"
+    },
+    "txt_password_should_be_of_minimum_8_character": "పాస్‌వర్డ్ కనీసం 8 అక్షరాలు ఉండాలి",
+    "@txt_password_should_be_of_minimum_8_character": {
+        "description": "పాస్‌వర్డ్ కనీసం 8 అక్షరాలు ఉండాలి"
+    },
+    "txt_expiry_month_is_invalid": "గడువు ముగిసిన నెల చెల్లదు",
+    "@txt_expiry_month_is_invalid": {
+        "description": "గడువు ముగిసిన నెల చెల్లదు"
+    },
+    "lbl_cvv": "CVV",
+    "@lbl_cvv": {
+        "description": "CVV"
+    },
+    "lbl_enter_cvv": "ఎంటర్ CVV",
+    "@lbl_enter_cvv": {
+        "description": "ఎంటర్ CVV"
+    },
+    "txt_expiry_year_is_invalid": "గడువు సంవత్సరం చెల్లదు",
+    "@txt_expiry_year_is_invalid": {
+        "description": "గడువు సంవత్సరం చెల్లదు"
+    },
+    "txt_please_reEnter_your_password": "దయచేసి మీ పాస్ వర్డ్ ను మళ్లీ ఎంటర్ చేయండి",
+    "@txt_please_reEnter_your_password": {
+        "description": "దయచేసి మీ పాస్ వర్డ్ ను మళ్లీ ఎంటర్ చేయండి"
+    },
+    "txt_password_do_not_match": "ఎంటర్ చేసిన పాస్‌వర్డ్ సరిపోలలేదు",
+    "@txt_password_do_not_match": {
+        "description": "ఎంటర్ చేసిన పాస్‌వర్డ్ సరిపోలలేదు"
+    },
+    "txt_enter_card_number": "కార్డ్ నంబర్‌ను ఎంటర్ చేయండి",
+    "@txt_enter_card_number": {
+        "description": "కార్డ్ నంబర్‌ను ఎంటర్ చేయండి"
+    },
+    "txt_select_state": "దయచేసి రాష్ట్రాన్ని ఎంచుకోండి",
+    "@txt_select_state": {
+        "description": "దయచేసి రాష్ట్రాన్ని ఎంచుకోండి"
+    },
+    "txt_enter_pincode": "దయచేసి పిన్‌కోడ్‌ని ఎంటర్ చెయ్యండి",
+    "@txt_enter_pincode": {
+        "description": "దయచేసి పిన్‌కోడ్‌ని ఎంటర్ చెయ్యండి"
+    },
+    "txt_enter_landmark": "దయచేసి సమీప లాండ్మార్క్ ని ఎంటర్ చెయ్యండి",
+    "@txt_enter_landmark": {
+        "description": "దయచేసి సమీప లాండ్మార్క్ ని ఎంటర్ చెయ్యండి"
+    },
+    "txt_enter_houseNo": "దయచేసి ఇంటి సంఖ్య, భవనం, ప్రాంతం మొదలైనవి ఎంటర్ చేయండి.",
+    "@txt_enter_houseNo": {
+        "description": "దయచేసి ఇంటి సంఖ్య, భవనం, ప్రాంతం మొదలైనవి ఎంటర్ చేయండి."
+    },
+    "txt_no_address": "చిరునామా ఏదీ దొరకలేదు.",
+    "@txt_no_address": {
+        "description": "చిరునామా ఏదీ దొరకలేదు."
+    },
+    "txt_live_chat": "లైవ్ చాట్",
+    "@txt_live_chat": {
+        "description": "లైవ్ చాట్"
+    },
+    "txt_Login_SignUp": "లాగిన్/సైన్అప్",
+    "@txt_Login_SignUp": {
+        "description": "లాగిన్/సైన్అప్"
+    },
+    "lbl_items": "వస్తువులు",
+    "@lbl_items": {
+        "description": "వస్తువులు"
+    },
+    "lbl_let_shop": "షాపింగ్ చేద్దాం",
+    "@lbl_let_shop": {
+        "description": "షాపింగ్ చేద్దాం"
+    },
+    "txt_reEnter_password": "పాస్వర్డ్ను మళ్లీ ఎంటర్ చేయండి",
+    "@txt_reEnter_password": {
+        "description": "పాస్వర్డ్ను మళ్లీ ఎంటర్ చేయండి"
+    },
+    "txt_sayHI": "హాయ్ చెప్పు",
+    "@txt_sayHI": {
+        "description": "హాయ్ చెప్పు"
+    },
+    "txt_new_msg": "కొత్త మెసేజ్",
+    "@txt_new_msg": {
+        "description": "కొత్త మెసేజ్"
+    },
+    "txt_today": "ఈరోజు",
+    "@txt_today": {
+        "description": "ఈరోజు"
+    },
+    "txt_yesterday": "నిన్న",
+    "@txt_yesterday": {
+        "description": "నిన్న"
+    },
+    "txt_cust_support": "కస్టమర్ సపోర్ట్",
+    "@txt_cust_support": {
+        "description": "కస్టమర్ సపోర్ట్"
+    },
+    "txt_ask_any_questions": "ఏవైనా ప్రశ్నలు కొరకు ఆన్‌లైన్ 24/7",
+    "@txt_ask_any_questions": {
+        "description": "ఏవైనా ప్రశ్నలు కొరకు ఆన్‌లైన్ 24/7"
+    },
+    "txt_type_here": "ఇక్కడ ఏదైనా టైప్ చేయండి...",
+    "@txt_type_here": {
+        "description": "ఇక్కడ ఏదైనా టైప్ చేయండి..."
+    },
+    "txt_preferred_time": "అనుకూలమైన డెలివరీ సమయం",
+    "@txt_preferred_time": {
+        "description": "అనుకూలమైన డెలివరీ సమయం"
+    },
+    "txt_items_in_cart": "కార్ట్‌లోని మొత్తం వస్తువులు",
+    "@txt_items_in_cart": {
+        "description": "కార్ట్‌లోని మొత్తం వస్తువులు"
+    },
+    "txt_swipe_to_order": "ఆర్డర్ చేయడానికి స్వైప్ చేయండి",
+    "@txt_swipe_to_order": {
+        "description": "ఆర్డర్ చేయడానికి స్వైప్ చేయండి"
+    },
+    "txt_feedback_sent": "అభిప్రాయం విజయవంతంగా పంపబడింది",
+    "@txt_feedback_sent": {
+        "description": "అభిప్రాయం విజయవంతంగా పంపబడింది"
+    },
+    "txt_enter_feedback": "దయచేసి మీ విలువైన అభిప్రాయాన్ని ఎంటర్ చేయండి.",
+    "@txt_enterfeedback": {
+        "description": "దయచేసి మీ విలువైన అభిప్రాయాన్ని ఎంటర్ చేయండి."
+    },
+    "txt_callback_request_sent": "కాల్‌బ్యాక్ రిక్వెస్ట్ విజయవంతంగా పంపబడింది.",
+    "@txt_callback_request_sent": {
+        "description": "కాల్‌బ్యాక్ రిక్వెస్ట్ విజయవంతంగా పంపబడింది."
+    },
+    "lbl_my_coupons": "నా కూపన్లు",
+    "@lbl_my_coupons": {
+        "description": "నా కూపన్లు"
+    },
+    "lbl_code_copied": "కోడ్ కాపీ చేయబడింది",
+    "@lbl_code_copied": {
+        "description": "కోడ్ కాపీ చేయబడింది"
+    },
+    "tle_category": "కేటగిరీలు",
+    "@tle_category": {
+        "description": "కేటగిరీలు"
+    },
+    "tle_bundle_offers": "బండిల్ ఆఫర్‌లు",
+    "@tle_bundle_offers": {
+        "description": "బండిల్ ఆఫర్‌లు"
+    },
+    "tle_products": "ప్రొడక్ట్స్",
+    "@tle_products": {
+        "description": "ప్రొడక్ట్స్"
+    },
+    "tle_popular_products": "పాపులర్ ప్రోడక్టులు",
+    "@tle_popular_products": {
+        "description": "పాపులర్ ప్రోడక్టులు"
+    },
+    "hnt_search_product": "ప్రొడక్టులను సెర్చ్ చెయ్యండి",
+    "@hnt_search_product": {
+        "description": "ప్రొడక్టులను సెర్చ్ చెయ్యండి"
+    },
+    "tle_reset": "రీసెట్ చేయండి",
+    "@tle_reset": {
+        "description": "రీసెట్ చేయండి"
+    },
+    "txt_please_enter_mobile_number": "దయచేసి మీ మొబైల్ నంబర్‌ను నమోదు చేయండి",
+    "@txt_please_enter_mobile_number": {
+        "description": "దయచేసి మీ మొబైల్ నంబర్‌ను నమోదు చేయండి"
+    },
+    "btn_send": "పంపండి",
+    "@btn_send": {
+        "description": "పంపండి"
+    },
+    "txt_no_location_selected": "లొకేషన్ ఎంపిక చేయబడలేదు",
+    "@txt_no_location_selected": {
+        "description": "లొకేషన్ ఎంపిక చేయబడలేదు"
+    },
+    "txt_select_location": "డెలివరీ లొకేషన్ ఎంచుకోండి.",
+    "@txt_select_location": {
+        "description": "డెలివరీ లొకేషన్ ఎంచుకోండి."
+    },
+    "btn_add_cart": "కార్ట్‌కి ఆడ్ చెయ్యండి",
+    "@btn_add_cart": {
+        "description": "కార్ట్‌కి ఆడ్ చెయ్యండి"
+    },
+    "tle_cant_find_product": "షాప్‌లో మీకు కావాల్సిన వస్తువులు దొరకలేదా?",
+    "@tle_cant_find_product": {
+        "description": "షాప్‌లో మీకు కావాల్సిన వస్తువులు దొరకలేదా?"
+    },
+    "txt_choose_image_from_gallery": "గేలరీ నుండి మీ షాపింగ్ లిస్ట్ యొక్క ఇమేజ్ ని ఎంచుకోండి",
+    "@txt_choose_image_from_gallery": {
+        "description": "గేలరీ నుండి మీ షాపింగ్ లిస్ట్ యొక్క ఇమేజ్ ని ఎంచుకోండి"
+    },
+    "txt_please_enter": "దయచేసి ఎంటర్ చేయండి",
+    "@txt_please_enter": {
+        "description": "దయచేసి ఎంటర్ చేయండి"
+    },
+    "txt_digit": "డిజిట్ ఫోన్ నెంబర్",
+    "@txt_digit": {
+        "description": "డిజిట్ ఫోన్ నెంబర్"
+    },
+    "txt_delivery_boy": "డెలివరీ బాయ్",
+    "@txt_delivery_boy": {
+        "description": "డెలివరీ బాయ్"
+    },
+    "txt_no_contact": "సంప్రదింపులు అందుబాటులో లేవు",
+    "@txt_no_contact": {
+        "description": "సంప్రదింపులు అందుబాటులో లేవు"
+    },
+    "txt_connect": "లేదా కనెక్ట్ అవ్వండి",
+    "@txt_connect": {
+        "description": "లేదా కనెక్ట్ అవ్వండి"
+    },
+    "txt_get_otp": "OTP పొందండి",
+    "@txt_get_otp": {
+        "description": "OTP పొందండి"
+    },
+    "txt_0XXXXXXXXX": "0XXXXXXXXX",
+    "@txt_0XXXXXXXXX": {
+        "description": "0XXXXXXXXX"
+    },
+    "txt_login_reg": "లాగిన్ / రిజిస్ట్రేషన్",
+    "@txt_login_reg": {
+        "description": "లాగిన్ / రిజిస్ట్రేషన్"
+    },
+    "txt_for": "కోసం",
+    "@txt_for": {
+        "description": "కోసం"
+    },
+    "txt_email_pass": "ఇమెయిల్ మరియు పాస్వర్డ్ను నమోదు చేయండి",
+    "@txt_email_pass": {
+        "description": "ఇమెయిల్ మరియు పాస్వర్డ్ను నమోదు చేయండి"
+    },
+    "txt_enter_mobile": "మొబైల్ నంబర్‌ను నమోదు చేయండి",
+    "@txt_enter_mobile": {
+        "description": "మొబైల్ నంబర్‌ను నమోదు చేయండి"
+    },
+    "txt_show_more": "ఇంకా చూపించు",
+    "@txt_show_more": {
+        "description": "ఇంకా చూపించు"
+    },
+    "txt_show_less": "తక్కువ చూపించు",
+    "@txt_show_less": {
+        "description": "తక్కువ చూపించు"
+    },
+    "txt_items_cart": "కార్ట్‌లోని వస్తువులు",
+    "@txt_items_cart": {
+        "description": "కార్ట్‌లోని వస్తువులు"
+    },
+    "btn_redeem": "రీడీమ్ చేయండి",
+    "@btn_redeems": {
+        "description": "రీడీమ్ చేయండి"
+    },
+    "btn_uses": "ఉపయోగాలు",
+    "@btn_uses": {
+        "description": "ఉపయోగాలు"
+    },
+    "txt_get_your": "పొందండి మీ",
+    "@txt_get_your": {
+        "description": "పొందండి మీ"
+    },
+    "txt_groceries": "గ్రోసరీస్",
+    "@txt_groceries": {
+        "description": "గ్రోసరీస్"
+    },
+    "txt_delivered_quickly": "త్వరగా డెలివరీ చేయబడుతుంది",
+    "@txt_delivered_quickly": {
+        "description": "త్వరగా డెలివరీ చేయబడుతుంది"
+    },
+    "txt_search": "సెర్చ్",
+    "@txt_search": {
+        "description": "సెర్చ్"
+    },
+    "tle_order": "ఆర్డర్",
+    "@tle_order": {
+        "description": "ఆర్డర్"
+    },
+    "txt_profile": "ప్రొఫైల్",
+    "@txt_profile": {
+        "description": "ప్రొఫైల్"
+    },
+    "txt_select_cancel_reason": "ఆర్డర్ కాన్సల్ చేయడానికి కారణాన్ని ఎంచుకోండి",
+    "@txt_select_cancel_reason": {
+        "description": "ఆర్డర్ కాన్సల్ చేయడానికి కారణాన్ని ఎంచుకోండి"
+    },
+    "txt_pay_through_cash": "కాష్ ద్వారా చెల్లించండి",
+    "@txt_pay_through_cash": {
+        "description": "కాష్ ద్వారా చెల్లించండి"
+    },
+    "tle_product_rating": "ప్రోడక్ట్ రేటింగ్లు",
+    "@tle_product_rating": {
+        "description": "ప్రోడక్ట్ రేటింగ్లు"
+    },
+    "btn_write_review": "రివ్యూ రాయండి",
+    "@btn_write_review": {
+        "description": "రివ్యూ రాయండి"
+    },
+    "btn_edit_review": "రివ్యూ ని ఎడిట్ చెయ్యండి",
+    "@btn_edit_review": {
+        "description": "రివ్యూ ని ఎడిట్ చెయ్యండి"
+    }
+}

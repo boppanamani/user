@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "575496077383",
+    "project_id": "flash-realm-341715",
+    "storage_bucket": "flash-realm-341715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575496077383:android:f99aae4f558647e98b7162",
+        "android_client_info": {
+          "package_name": "ruca.deliver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575496077383-95hq697kqi8iml72rvqhmuj3podvkl47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ruca.deliver.app",
+            "certificate_hash": "3d6697b9e353aa7dce080f1cf57f04f3124fb698"
+          }
+        },
+        {
+          "client_id": "575496077383-pufof3lqmrchrli55mu94if7qcl2vur0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDgOtnPo65qYWxjw5BhIqHlj0Q-lgxNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575496077383-pufof3lqmrchrli55mu94if7qcl2vur0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575496077383:android:2aed17850f0129948b7162",
+        "android_client_info": {
+          "package_name": "ruca.mart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575496077383-c59nepufge8kknbct89hj7radaqmgo39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ruca.mart.app",
+            "certificate_hash": "3d6697b9e353aa7dce080f1cf57f04f3124fb698"
+          }
+        },
+        {
+          "client_id": "575496077383-pufof3lqmrchrli55mu94if7qcl2vur0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDgOtnPo65qYWxjw5BhIqHlj0Q-lgxNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575496077383-pufof3lqmrchrli55mu94if7qcl2vur0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575496077383:android:a69134d66a05983c8b7162",
+        "android_client_info": {
+          "package_name": "ruca.store.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575496077383-lvt80a5o3inf3fur31urj0o7dfh88032.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ruca.store.app",
+            "certificate_hash": "3d6697b9e353aa7dce080f1cf57f04f3124fb698"
+          }
+        },
+        {
+          "client_id": "575496077383-pufof3lqmrchrli55mu94if7qcl2vur0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDgOtnPo65qYWxjw5BhIqHlj0Q-lgxNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575496077383-pufof3lqmrchrli55mu94if7qcl2vur0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

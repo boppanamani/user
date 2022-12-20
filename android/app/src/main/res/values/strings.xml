@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rucamart</string>
+    <string name="default_notification_channel_id">1234</string>
+    <string name="facebook_app_id">0000000000000000</string>
+    <string name="fb_login_protocol_scheme">fb0000000000000000</string>
+    <string name="map_key">AIzaSyC8el26G9at23oUC5ig-1Fcx8uaFb8kH1Y</string>
+</resources>
